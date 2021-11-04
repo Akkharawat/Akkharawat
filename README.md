@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Akkharawat Burachokviwat
-- 👀 I’m interested in Business and Investments
-- 🌱 I’m currently learning computer engineering
 - 📫 How to reach me : Akkharawatbct@gmail.com
 
 <!---
