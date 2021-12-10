@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Akkharawat Burachokviwat
 - 📫 How to reach me : Akkharawatbct@gmail.com
-- 👀 I’m interested in Data Science and Machine learning  \n
+- 👀 I’m interested in Data Science and Machine learning
+
 You can find me on [LinkedIn].
 <!-- Links to your social media accounts -->
 
