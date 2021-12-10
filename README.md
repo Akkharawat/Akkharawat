@@ -1,6 +1,10 @@
 - 👋 Hi, I’m Akkharawat Burachokviwat
 - 📫 How to reach me : Akkharawatbct@gmail.com
 - 👀 I’m interested in Data Science and Machine learning
+You can find me on [LinkedIn].
+<!-- Links to your social media accounts -->
+
+[LinkedIn]: https://www.linkedin.com/in/earthakkharawat
 
 ![](https://img.shields.io/badge/Coding-Python-informational?style=flat&logo=https://learnwithshashank.com/coding/wp-content/uploads/2020/08/2f9c11f9e55efbf1791f12c06d60729b-2.jpg&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Coding-C++-informational?style=flat&logo=https://learnwithshashank.com/coding/wp-content/uploads/2020/08/2f9c11f9e55efbf1791f12c06d60729b-2.jpg&logoColor=Orange&color=White)
@@ -11,12 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EarthAkkharawat&layout=compact&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/EarthAkkharawat/github-readme-stats)
 
-<!-- Actual text -->
 
-You can find me on [LinkedIn].
-<!-- Links to your social media accounts -->
-
-[LinkedIn]: https://www.linkedin.com/in/earthakkharawat
 
 
 
