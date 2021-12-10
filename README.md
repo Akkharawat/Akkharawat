@@ -11,7 +11,7 @@ I am interesting in Data Science and Machine learning
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EarthAkkharawat&layout=compact)](https://github.com/EarthAkkharawat/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthAkkharawat&repo=github-readme-stats&layout=compact&langs_count=5)](https://github.com/EarthAkkharawat/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthAkkharawat&repo=github-readme-stats)](https://github.com/EarthAkkharawat/github-readme-stats)
 
 
 <!---
