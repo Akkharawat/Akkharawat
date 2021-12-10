@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Akkharawat Burachokviwat
 - 📫 How to reach me : Akkharawatbct@gmail.com
-
-I am interesting in Data Science and Machine learning
+- 👀 I’m interested in Data Science and Machine learning
 
 ![](https://img.shields.io/badge/Coding-Python-informational?style=flat&logo=https://learnwithshashank.com/coding/wp-content/uploads/2020/08/2f9c11f9e55efbf1791f12c06d60729b-2.jpg&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Coding-C++-informational?style=flat&logo=https://learnwithshashank.com/coding/wp-content/uploads/2020/08/2f9c11f9e55efbf1791f12c06d60729b-2.jpg&logoColor=Orange&color=White)
