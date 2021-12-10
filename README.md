@@ -9,6 +9,11 @@ I am interesting in Data Science and Machine learning
 <img src="{BadgeURLHere}" />
 [![Akkharawat's GitHub stats](https://github-readme-stats.vercel.app/api?username=EarthAkkharawat)](https://github.com/EarthAkkharawat/github-readme-stats)
 ![Akkharawat's GitHub stats](https://github-readme-stats.vercel.app/api?username=EarthAkkharawat&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EarthAkkharawat)](https://github.com/EarthAkkharawat/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EarthAkkharawat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!---
 Akkharawat/Akkharawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
