@@ -12,7 +12,18 @@ I am interesting in Data Science and Machine learning
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EarthAkkharawat&layout=compact&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/EarthAkkharawat/github-readme-stats)
 
-![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=data:image/#000000;base64,<BASE64_DATA>)
+<!-- Actual text -->
+
+You can find me on [![LinkedIn][2.2]][2].
+
+<!-- Icons -->
+
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[2]: www.linkedin.com/in/earthakkharawat
 
 
 
