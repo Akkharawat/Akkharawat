@@ -8,7 +8,7 @@ I am interesting in Data Science and Machine learning
 
 ![EarthAkkharawat's GitHub stats](https://github-readme-stats.vercel.app/api?username=EarthAkkharawat&show_icons=true&theme=merko&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EarthAkkharawat)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EarthAkkharawat)](https://github.com/EarthAkkharawat/github-readme-stats)
 
 
 
