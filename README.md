@@ -14,11 +14,10 @@ I am interesting in Data Science and Machine learning
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][3.2]][3].
-[3.2]: ![alt text](http://www.w3.org/2000/svg"><title>LinkedIn</title><path)
+You can find me on [![LinkedIn][3.2]].
 <!-- Links to your social media accounts -->
 
-[3]: https://www.linkedin.com/in/earthakkharawat
+[3.2]: https://www.linkedin.com/in/earthakkharawat
 
 
 
