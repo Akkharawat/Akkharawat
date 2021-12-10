@@ -14,7 +14,7 @@ I am interesting in Data Science and Machine learning
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][3.2]].
+You can find me on LinkedIn[3.2].
 <!-- Links to your social media accounts -->
 
 [3.2]: https://www.linkedin.com/in/earthakkharawat
