@@ -2,6 +2,7 @@
 - 📫 How to reach me : Akkharawatbct@gmail.com
 - 👀 I’m interested in Data Science and Machine learning
 
+[<img align="left" alt="codeSTACKr | :LinkedIn" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg" />][LinkedIn]
 You can find me on [LinkedIn].
 <!-- Links to your social media accounts -->
 
