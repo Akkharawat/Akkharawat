@@ -1,6 +1,7 @@
 - 👋 Hi, I’m a second-year student studying in Computer Engineering at Chulalongkorn U.
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently self-study in Machine Learning 😊
+- 📫 How to reach me : Akkharawatbct@gmail.com
 
 ### Connect with me:  
 
