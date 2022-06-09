@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/Coding-JAVA-informational?style=flat&logo=https://learnwithshashank.com/coding/wp-content/uploads/2020/08/2f9c11f9e55efbf1791f12c06d60729b-2.jpg&logoColor=Orange&color=White) -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EarthAkkharawat&layout=compact&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/EarthAkkharawat/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EarthAkkharawat&layout=compact&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/EarthAkkharawat/github-readme-stats) -->
 
 <!-- <details>
 <summary>📈 My Github Stats</summary>
