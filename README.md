@@ -5,10 +5,10 @@
 - 📫 How to reach me : Akkharawatbct@gmail.com
 
 ### Connect with me:  
-
-<!-- <a href="https://www.linkedin.com/in/earthakkharawat"> -->
+<!-- 
+<a href="https://www.linkedin.com/in/earthakkharawat">
     <img align="left" alt="Akkharawat Burachokviwat | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
+  </a> -->
   <a href="Akkharawatbct@gmail.com">
     <img align="left" alt="Akkharawat Burachokviwat | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
