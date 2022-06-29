@@ -6,7 +6,7 @@
 
 ### Connect with me:  
 
-<a href="https://www.linkedin.com/in/earthakkharawat">
+<!-- <a href="https://www.linkedin.com/in/earthakkharawat"> -->
     <img align="left" alt="Akkharawat Burachokviwat | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="Akkharawatbct@gmail.com">
