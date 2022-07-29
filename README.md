@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a second-year student studying Computer Engineering at Chulalongkorn U.
+- 👋 Hi, I’m a third-year student studying Computer Engineering at Chulalongkorn U.
 - 👀 I’m interested in Machine Learning and Web development
 - 🌱 I’m currently self-study in Machine Learning 😊
 - 💻 My website : [akkharawat](https://akkharawat.netlify.app/)
