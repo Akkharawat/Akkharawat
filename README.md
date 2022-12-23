@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a third-year student studying Computer Engineering at Chulalongkorn University.
 - 👀 I’m interested in Machine Learning.
-- 💻 My website : [akkharawat](https://akkharawat.netlify.app/)
+<!-- - 💻 My website : [akkharawat](https://akkharawat.netlify.app/) -->
 - 📫 How to reach me : Akkharawatbct@gmail.com
 
 ### Connect with me:  
