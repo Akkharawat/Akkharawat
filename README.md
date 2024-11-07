@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a fourth-year student studying Computer Engineering at Chulalongkorn University.
+- 👋 Hi, I graduated from faculty of Computer Engineering at Chulalongkorn University.
 - 👀 I’m interested in Machine Learning and NLP.
 <!-- - 💻 My website : [akkharawat](https://akkharawat.netlify.app/) -->
 - 📫 How to reach me : Akkharawatbct@gmail.com
